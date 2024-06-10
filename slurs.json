@@ -1,0 +1,304 @@
+[
+    {
+        "phrase": [
+            "খানকি",
+            "খাঙ্কি",
+            "ছেনাল"
+        ],
+        "lit": [
+            "(female) prostitute"
+        ]
+    },
+    {
+        "phrase": [
+            "খানকির ছেলে"
+        ],
+        "lit": [
+            "spawn of a whore"
+        ]
+    },
+    {
+        "phrase": [
+            "কুঠি"
+        ],
+        "lit": [
+            "brothel"
+        ]
+    },
+    {
+        "phrase": [
+            "বাবু"
+        ],
+        "lit": [
+            "(of a hooker) client"
+        ]
+    },
+    {
+        "phrase": [
+            "মাগি",
+            "মাগী"
+        ],
+        "lit": [
+            "(of a woman) bitch"
+        ]
+    },
+    {
+        "phrase": [
+            "মুরশুদ্দি"
+        ],
+        "lit": [
+            "pimp"
+        ]
+    },
+    {
+        "phrase": [
+            "বাঁড়া",
+            "ধোন"
+        ],
+        "lit": [
+            "penis"
+        ]
+    },
+    {
+        "phrase": [
+            "বাল",
+            "ঝাঁট",
+            "ঝাঁটের বাল"
+        ],
+        "lit": [
+            "male pubic hair"
+        ]
+    },
+    {
+        "phrase": [
+            "সালা"
+        ]
+    },
+    {
+        "phrase": [
+            "গুদ"
+        ],
+        "lit": [
+            "vulva"
+        ]
+    },
+    {
+        "phrase": [
+            "গুদের বাল"
+        ],
+        "lit": [
+            "female pubic hair"
+        ]
+    },
+    {
+        "phrase": [
+            "গাঁড়",
+            "পোঁদ"
+        ],
+        "lit": [
+            "buttocks"
+        ]
+    },
+    {
+        "phrase": [
+            "গাঁড় মারা"
+        ],
+        "real": [
+            "fuck (something)"
+        ]
+    },
+    {
+        "phrase": [
+            "বিচি"
+        ],
+        "lit": [
+            "testicles"
+        ]
+    },
+    {
+        "phrase": [
+            "বিচি টাকে ওঠা",
+            "কেলিয়ে যাওয়া"
+        ],
+        "real": [
+            "shit in pants"
+        ]
+    },
+    {
+        "phrase": [
+            "গান্ডু"
+        ],
+        "lit": [
+            "asshole"
+        ]
+    },
+    {
+        "phrase": [
+            "বোকাচোদা "
+        ],
+        "lit": [
+            "dumbfuck"
+        ]
+    },
+    {
+        "phrase": [
+            "পাগলাচোদা"
+        ],
+        "real": [
+            "senile"
+        ]
+    },
+    {
+        "phrase": [
+            "বানচোদ",
+            "হারামজাদা"
+        ],
+        "lit": [
+            "bastard",
+            "scoundrel"
+        ]
+    },
+    {
+        "phrase": [
+            "চোদনা",
+            "চোদু"
+        ],
+        "lit": [
+            "fucker"
+        ]
+    },
+    {
+        "phrase": [
+            "ঢ্যামনা"
+        ],
+        "lit": [
+            "annoying (person)"
+        ]
+    },
+    {
+        "phrase": [
+            "কেলিয়ে আঁটি"
+        ],
+        "real": [
+            "fucked up"
+        ]
+    },
+    {
+        "phrase": [
+            "গাড় মারা যাওয়া",
+            "কেলিয়ে যাওয়া"
+        ],
+        "real": [
+            "get fucked up"
+        ]
+    },
+    {
+        "phrase": [
+            "আঁটি বাঁধা"
+        ],
+        "real": [
+            "do nothing"
+        ]
+    },
+    {
+        "phrase": [
+            "আমার বাল ছেড়া গেছে",
+	        "আমার ছেড়া গেছে"
+        ],
+	    "real": ["I don't give a fuck (about it)"]
+    },
+    {
+        "phrase": [
+            "ছিড়ে আঁটি বাঁধা"
+        ],
+	    "real": ["do absolutely nothing"]
+    },
+    {
+        "phrase": [
+            "খাঁড়া বাঁড়া"
+        ],
+        "lit": [
+            "erect penis"
+        ]
+    },
+    {
+        "phrase": [
+            "ছোঁচা"
+        ],
+        "lit": [
+            "washing asshole"
+        ]
+    },
+    {
+        "phrase": [
+            "হাগা"
+        ],
+        "lit": [
+            "shitting"
+        ]
+    },
+    {
+        "phrase": [
+            "মুতা",
+            "মোতা",
+            "হিসু "
+        ],
+        "lit": [
+            "take a piss"
+        ]
+    },
+    {
+        "phrase": [
+            "মাল"
+        ],
+        "real": [
+            "liquor",
+            "semen",
+            "prostitute"
+        ]
+    },
+    {
+        "phrase": [
+            "মাল পড়া"
+        ],
+        "lit": [
+            "ejaculate"
+        ]
+    },
+    {
+        "phrase": [
+            "মাল খাওয়া"
+        ],
+        "lit": [
+            "inebriate (oneself)"
+        ]
+    },
+    {
+        "phrase": [
+            "গেলাখেলা"
+        ],
+        "lit": [
+            "booze party"
+        ]
+    },
+    {
+        "phrase": [
+            "পাদ মারা",
+            "হওয়া ছাড়া"
+        ],
+        "lit": [
+            "fart"
+        ]
+    },
+    {
+        "phrase": [
+            "মাথায় হাগা"
+        ],
+        "lit": [
+            "defecate on (someone's) head"
+        ],
+        "real": [
+            "make fool (of someone)"
+        ]
+    }
+]
