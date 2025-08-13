@@ -4,7 +4,7 @@ In the world of transgressive cinema, **Marian Dora** has surely cemented himsel
 
 Marian Dora is a pseudonym, based on the initials of his real name. He is known to be a resident of South Germany as per Magnus Blomdahl's documentary *Revisiting Melancholie der Engel* (2017). All the interviews featuring the director have his face censored or pitch of his voice altered. Some say he's a physician/surgeon, but he never verified it. If he is however, that would vaguely explain why he feels the need to display autopsy, colonoscopy or cannibalism in such great detail. Some criticise him as delusional for the way he speaks in interviews.
 
-Dora is an acquaintance of Ulli Lommel (director of *Boogeyman*), and has worked with him as a second-unit director; before that, he made several short-films (of no value). Nonetheless, he's quite a hardworker as he deals with many aspects of his films, starting on from 
+Dora is an acquaintance of Ulli Lommel (director of *Boogeyman*), and has worked with him as a second-unit director; before that, he made several short-films (of no value). Nonetheless, he's quite a hardworker as he deals with many aspects of his films, starting on from being a sound/lighting engineer to cinematographer and director.
 
 > It should be immediately clarified that Marian Dora has no relation to the [other Dora][other-dora], although both have a knack for exploration. Whereas Dora with her friend explores the world, Marian Dora explores the dark corners of the human mind, going so far as to dissect the human body to show what makes us a complete mammal.
 
@@ -89,9 +89,9 @@ His words sound borderline misogynistic, because if the women don't serve an aut
 
 See? I wasn't being hyperbolic when I said he abused human rights. 
 
-> **In your initial interview with Severed Cinema you stated that Debris Documenter is in some ways autobiographical. Do you resonate with the sexual depravity and copious amounts of bodily fluids presented forth by Carsten Frank? Could you elaborate?* <br/><br/>
+> **In your initial interview with Severed Cinema you stated that Debris Documenter is in some ways autobiographical. Do you resonate with the sexual depravity and copious amounts of bodily fluids presented forth by Carsten Frank? Could you elaborate?** <br/><br/>
 >
-> Indeed *Debris Documentary** shows the real person Carsten Frank. There is a lot of intersection between him and me, this is why it is justified to call the film autobiographical. In a way the film addresses the eternal question of underground filmmaking: how far would I go? Is it justified to bring the sacrifice of a human life for my film?...
+> Indeed *Debris Documentary* shows the real person Carsten Frank. There is a lot of intersection between him and me, this is why it is justified to call the film autobiographical. In a way the film addresses the eternal question of underground filmmaking: how far would I go? Is it justified to bring the sacrifice of a human life for my film?...
 
 So he resonates with masturbating to snuff films? That would be a very Marian Dora thing to do.
 
