@@ -86,7 +86,8 @@ mark {
     margin: 0.5em;
 
     &::marker {
-        content: "💡";
+        content: "↯ ";
+        color: deeppink;
     }
 
     a {
