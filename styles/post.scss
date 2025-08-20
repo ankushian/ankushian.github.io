@@ -1,0 +1,95 @@
+---
+---
+
+@import "helvetica.scss";
+
+body {
+    max-width: 40em;
+    margin: 0 auto;
+    padding: 0 1em;
+
+    font: 20pt 'Helvetica Neue';
+
+    color: white;
+    background-color: black;
+}
+
+::selection {
+    background-color: deeppink;
+    color: black;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    color: deeppink;
+}
+
+nav a {
+    font-size: 28pt;
+    line-height: 1.25;
+    padding: 0.25em 0.15em;
+}
+
+blockquote {
+    margin: 0.75em 0;
+    padding: 0.75em;
+    border-left: 0.2em solid deeppink;
+    color: white;
+
+    /* Elements inside the blockquote shouldn't have margin. */
+    * { margin: 0; }
+}
+
+.footnotes {
+    color: grey;
+    font-size: 16pt;
+    font-style: italic;
+}
+
+h1, h2, h3 {
+    font-family: 'Helvetica Neue';
+    font-weight: lighter;
+    line-height: 1.25;
+    text-align: center;
+
+    color: white;
+    background-color: deeppink;
+
+    margin: 0;
+    padding: 0 0.25em;
+
+    &::selection, *::selection {
+        color: deeppink;
+        background-color: black;
+    }
+}
+
+h1 { font-size: 64pt; }
+h2 { font-size: 48pt; }
+h3 { font-size: 36pt; }
+
+mark {
+    background-color: white;
+    color: black;
+}
+
+/* For all pages. */
+#navigation {
+    display: flex;
+    justify-content: center;
+}
+
+/* li */.post-card {
+    margin: 0.5em;
+
+    &::marker {
+        content: "💡";
+    }
+
+    a {
+        font-size: 36pt;
+    }
+}

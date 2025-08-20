@@ -1,0 +1,15 @@
+---
+layout: post
+title: Repertorie of Epiphanies
+---
+
+<ul>
+{% for post in site.posts %}
+<li class="post-card">
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <div>
+        <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+    </div>
+</li>
+{% endfor %}
+</ul>
