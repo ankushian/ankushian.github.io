@@ -4,7 +4,7 @@
 @import "helvetica.scss";
 
 body {
-    max-width: 40em;
+    max-width: 1080px;
     margin: 0 auto;
     padding: 0 1em;
 
@@ -27,26 +27,14 @@ a {
     color: deeppink;
 }
 
-nav a {
-    font-size: 28pt;
-    line-height: 1.25;
-    padding: 0.25em 0.15em;
-}
-
 blockquote {
     margin: 0.75em 0;
     padding: 0.75em;
     border-left: 0.2em solid deeppink;
     color: white;
 
-    /* Elements inside the blockquote shouldn't have margin. */
+    // Elements inside the blockquote shouldn't have margin.
     * { margin: 0; }
-}
-
-.footnotes {
-    color: grey;
-    font-size: 16pt;
-    font-style: italic;
 }
 
 h1, h2, h3 {
@@ -61,6 +49,7 @@ h1, h2, h3 {
     margin: 0;
     padding: 0 0.25em;
 
+    /* Selections are inverse of the color scheme. */
     &::selection, *::selection {
         color: deeppink;
         background-color: black;
@@ -80,12 +69,25 @@ mark {
 #navigation {
     display: flex;
     justify-content: center;
+
+    a {
+        font-size: 28pt;
+        line-height: 1.25;
+        padding: 0.25em 0.15em;
+    }
+}
+
+.footnotes {
+    color: grey;
+    font-size: 16pt;
+    font-style: italic;
 }
 
 /* li */.post-card {
     margin: 0.5em;
 
     &::marker {
+        // Lightning, because Santacharya's epiphanies are like such.
         content: "↯ ";
         color: deeppink;
     }
