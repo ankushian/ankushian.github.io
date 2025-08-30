@@ -30,19 +30,21 @@ Japan has been notorious in producing fetishism in Pink films and Hentai. This i
 
 **Netorare** is where a evil man takes away a woman from her lover and rapes her. **Futanari** depicts females with both penises and vaginas. **Ugly bastard** is as you expect where an ugly man indulges in intercourse with an attractive woman.
 
-## Case Analysis
+## Notable Mentions
 
-### *Boku No Pico*
+The following are brief introductions of different Hentai titles that Santacharya researched about in mid-2000s, which were notable in his research about Hentai.
+
+### Boku No Pico
 
 *Boku No Pico* by Natural High is controversial for its explicit portrayal of gay sex (a consequence of heteronormativity). The producer GOLDENBOY claims it as the world's first ever **shotacon** Hentai. It all begins with a man falling for a young boy with long hair, whom he initially took for a girl. It's especially notorious for featuring a gay threesome at the peak of Tokyo tower—not everyone's cup of tea, I know.
 
 This OVA Series is [available on Archive.org](https://archive.org/details/boku-no-pico-web-remastered-1080p).
 
-### *Euphoria*
+### Euphoria
 
 *Euphoria* by Magin Label is infamous for its grotesque narrative. Infamous for it's gruesome nature, featuring no less than—rape, murder, satanic rituals, ordeals, sci-fi, etc. It can be considered similar in lines of Srdjan Spasojević's *A Serbian Film*.
 
-### *The Human Salvation Project*
+### The Human Salvation Project
 
 Also known as *[Shin Seiki Evangerion: Jinrui ho kan keikaku](https://www.imdb.com/title/tt5357342/),* it is a Hentai parody of *Neon Genesis Evangelion*—one of Santacharya's favourite franchises. This parody is obscure to find, thus considered a lost media. 
 
@@ -50,7 +52,7 @@ Set in 20XX A.D., in this parody Shinji Ikari enters Level 20 of NERV HQ only to
 
 The origins of this OVA are highly disputed. Santacharya asked his disciple Hideaki Anno, if his studio GAINAX made it from the scrap budget of producing the original show. Anno replied he didn't know.
 
-### *Evan Get-It On*
+### Evan Get-It On
 
 A Hentai fan-parody of *Neon Genesis Evangelion*, which is available in its most impoverished form. 
 
@@ -58,7 +60,7 @@ In its first episode, Asuka Langely Soryu performs a fellatio on Shinji Ikari, s
 
 It is also a lost media [available on Archive.org](https://archive.org/details/demon-libidinous-evan-get-it-on-the-lost-and-forgotten-bootleg-evangelion-hentai-71701072). The origins of the animation are mysterious as well; the producer of it identifies as GUYMAX (a pun on GAINAX), whose mascot is Da Vinci's Vitruvian Man. 
 
-### *Cougar Trap*
+### Cougar Trap
 
 A pseudo-Freudian OVA Series, involving a mother-son incestous relationship. The main protagonist Kazushi is said to have "Oedipus complex", which in turn makes him attracted to older women (MILF). His friend Ryouto's single mother attends to his carnal desires; meanwhile his friend discovers the Kazushi's mother being seuxally frustrated for her husband hadn't enough time for her due to buisness tours. Ryouto persuades her into sex, and rapes her, while Kazushi is forcefully embroiled into an affair with his friend's mother. In its finale, the Ryouto tricks Kazushi into committing incest with his own mother. Years later, the friend dies of cancer. His mother have found a new husband. Meanwhile, the Kazushi's mother divorces her husband to pursue a incestous relationship with her son. The end of is turned more bizarre (like Swami Santacharya's Bizzare Epiphanies) and surreal with mention of the daughter the mother-son duo had together.
 
