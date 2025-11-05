@@ -9,7 +9,7 @@ Many of the community slangs are Japanese loanwords; e.g. nakadashi stands for c
 
 Hentai is censored in Japan as a consequence of Eirin’s guidelines on Pink films; namely pubic hair and genitals can not be shown, respecting Japan’s cultural values. 
 
-There are many opponents to this, including revered [New Wave](https://en.wikipedia.org/wiki/Japanese_New_Wave) director Nagisa Oshima; infamous for directing <i>In The Realm of Senses</i>, opposing humanitarian beliefs of Akira Kurosawa. It was based on a real femme fatale geisha Sada Abe, who murdered his master, cut off his penis, plunged it into her vagina, and **kept it there for a week** — now, that's what I call true love!
+There are many opponents to this, including revered [New Wave](https://en.wikipedia.org/wiki/Japanese_New_Wave) director Nagisa Oshima; infamous for directing *In The Realm of Senses*, opposing humanitarian beliefs of Akira Kurosawa. It was based on a real femme fatale geisha Sada Abe, who murdered his master, cut off his penis, plunged it into her vagina, and **kept it there for a week** — now, that's what I call true love!
 
 Oshima was testifed in court for obscenity charges. He defended himself before the court; in sunnict words —
 
