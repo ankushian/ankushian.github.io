@@ -61,10 +61,10 @@ h1 { font-size: 64pt; }
 h2 { font-size: 48pt; }
 h3 { font-size: 36pt; }
 
-mark {
-    background-color: white;
-    color: black;
-}
+// mark {
+//     background-color: yellow;
+//     color: black;
+// }
 
 /* For all pages. */
 #navigation {
@@ -72,13 +72,16 @@ mark {
     justify-content: center;
 
     a {
-        font-size: 28pt;
-        background-color: #8800ff;
         color: white;
+        background-color: black;
+        text-decoration-color: none;
 
+        font-size: 28pt;
         line-height: 1.25;
+
         padding: 0.25em 0.15em;
         margin: 0.5em 0.25em;
+        border-radius: 0.1em;
     }
 }
 
