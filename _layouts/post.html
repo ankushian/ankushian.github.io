@@ -5,25 +5,6 @@
 <!--     <meta name="viewport" content="width=device-width, initial-scale=1" /> -->
     <link rel="stylesheet" href="/styles/post.css">
     {% seo %}
-    {% if page.mathenabled %}
-      <script>
-      MathJax = {
-        loader: {
-          load: ['input/tex-base', 'output/svg', '[tex]/ams']
-        },
-        output: {
-          font: 'mathjax-newcm'
-        },
-        svg: {
-          fontCache: 'global'
-        },
-        tex: {
-          packages: {'[+]': ['ams']}
-        }
-      };
-      </script>
-      <script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/startup.js"></script>
-    {% endif %}
 
   </head>
   <body>

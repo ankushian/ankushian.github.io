@@ -1,21 +1,21 @@
 ---
 ---
 
-@import "helvetica.scss";
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
 
 body {
     max-width: 1080px;
     margin: 0 auto;
     padding: 0 1em;
 
-    font: 20pt 'Helvetica Neue';
+    font: 20pt 'Merriweather';
 
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: #ffffee;
 }
 
 ::selection {
-    background-color: deeppink;
+    background-color: yellow;
     color: black;
 }
 
@@ -24,34 +24,35 @@ p {
 }
 
 a {
-    color: deeppink;
+    color: black;
+    text-decoration-color: #8800ff;
 }
 
 blockquote {
     margin: 0.75em 0;
     padding: 0.75em;
-    border-left: 0.2em solid deeppink;
-    color: white;
+    border-left: 0.2em solid #8800ff;
+    color: black;
 
     // Elements inside the blockquote shouldn't have margin.
     * { margin: 0; }
 }
 
 h1, h2, h3 {
-    font-family: 'Helvetica Neue';
-    font-weight: lighter;
+    font-family: 'Playfair Display';
+    // font-weight: bold;
     line-height: 1.25;
     text-align: center;
 
-    color: white;
-    background-color: deeppink;
+    color: black;
+    background-color: yellow;
 
     margin: 0;
-    padding: 0 0.25em;
+    padding: 0.1em 0.25em;
 
     /* Selections are inverse of the color scheme. */
     &::selection, *::selection {
-        color: deeppink;
+        color: yellow;
         background-color: black;
     }
 }
@@ -72,13 +73,17 @@ mark {
 
     a {
         font-size: 28pt;
+        background-color: #8800ff;
+        color: white;
+
         line-height: 1.25;
         padding: 0.25em 0.15em;
+        margin: 0.5em 0.25em;
     }
 }
 
 .footnotes {
-    color: grey;
+    color: #4f4f4f;
     font-size: 16pt;
     font-style: italic;
 }
@@ -89,10 +94,14 @@ mark {
     &::marker {
         // Lightning, because Santacharya's epiphanies are like such.
         content: "↯ ";
-        color: deeppink;
     }
 
     a {
         font-size: 36pt;
     }
+}
+
+/* li */.post-date {
+    color: black;
+    background: yellow;
 }
